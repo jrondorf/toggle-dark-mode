@@ -1,3 +1,3 @@
 # Toggle Dark Mode
 
-An macOS automator app to toggle dark mode
+A macOS app to toggle dark mode.
